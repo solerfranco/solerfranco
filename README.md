@@ -1,5 +1,5 @@
 ### Hi, I'm Franco 👋
-![Franco Soler](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
+![Franco Soler](https://github.com/solerfranco/solerfranco/blob/media/readme.png)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
