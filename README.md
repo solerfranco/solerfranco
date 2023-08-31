@@ -2,7 +2,7 @@
 ![Franco Soler](https://github.com/solerfranco/solerfranco/blob/media/readme.png)
 
 ## Technologies
-![Unity](https://img.shields.io/badge/-CSharp-%23353b35?logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-%23353b35?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-%23748074?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
@@ -14,13 +14,9 @@
 ![Python](https://img.shields.io/badge/-Python-%23694640?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23694640?logo=MySQL&logoColor=white)
 
-## Soft Skills
+## About Me
 
-📚 Curiosity, Never stop learning
-
-💪 Motivation
-
-🙋 Social skills
+Frontend Web Developer React.js I use javascript while using MySQL to manage databases. Electronics and robotics enthusiast. I do IOT projects using Raspberry Pi and Arduino with Python and C++ respectively. I like to make games in my spare time.
 
 
 
