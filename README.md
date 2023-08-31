@@ -2,6 +2,7 @@
 ![Franco Soler](https://github.com/solerfranco/solerfranco/blob/media/readme.png)
 
 ## Technologies
+![Unity](https://img.shields.io/badge/-CSharp-%23694640?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-%23694640?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
